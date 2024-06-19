@@ -1,0 +1,25 @@
+.link{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.link > .home {
+    width: 300px;
+    height: 100px;
+    background-color: darkgreen;
+    color: aliceblue;
+
+    text-align: center;
+    
+}
+
+.link > .sobre {
+    width: 300px;
+    height: 100px;
+    background-color: red;
+    color: aliceblue;
+
+    text-align: center;
+    
+}
